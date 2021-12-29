@@ -1,2 +1,3 @@
-# Custom-WritableComparable-Example
-Demonstration about custom Writable Comparable  class in map reduce.
+#Custom Writable Comparable class .
+
+Description: Demonistration about custom WritableComparable  class in mapreduce.
